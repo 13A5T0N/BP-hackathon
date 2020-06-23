@@ -40,3 +40,10 @@ textarea {
     border: 1px solid white;
     position: sticky;
 }
+#review_header{
+    margin-left: 2vw;
+}
+
+.review{
+    margin-left: 2vw;
+}
