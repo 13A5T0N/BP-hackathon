@@ -1,0 +1,42 @@
+.profile-img img {
+    margin-left: 40vw;
+    margin-top: 2vh;
+    height: 30vh;
+    border-radius: 50%;
+}
+
+.about {
+    margin-top: 5vh;
+    margin-left: 2vw;
+}
+
+.profile {
+    margin-left: 2vw;
+}
+
+.number {
+    margin-left: 0vw;
+    margin-left: 0vh;
+}
+
+table td {
+    color: white;
+}
+
+textarea {
+    background-color: #282828;
+    color: white;
+}
+
+.rating {
+    margin-top: 4vh;
+    margin-left: 2vw;
+}
+
+.contact {
+    width: 20vw;
+    margin-left: 77vw;
+    margin-top: -13vh;
+    border: 1px solid white;
+    position: sticky;
+}

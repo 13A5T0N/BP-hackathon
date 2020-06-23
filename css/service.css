@@ -1,0 +1,99 @@
+.searchbar {
+    margin-top: -6vh;
+    margin-left: 46vw;
+}
+
+.tool {
+    width: 100%;
+    margin-top: -0.09vh;
+    background: #686666;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+.budget {
+    margin-left: 6vw;
+}
+
+#minimum {
+    margin-left: 2vw;
+}
+
+#maximum {
+    margin-left: 2vw;
+    margin-top: -8vh;
+}
+
+.submit {
+    margin-left: 23vw;
+}
+
+.clear {
+    margin-left: 2vw;
+}
+
+.seller {
+    margin-left: 23vw;
+    margin-top: -6vh;
+
+}
+
+.level1 {
+    margin-left: 2vw;
+}
+
+.level2 {
+    margin-top: 1vh;
+    margin-left: 2vw;
+}
+
+.level3 {
+    margin-top: -9vh;
+    margin-left: 10vw;
+}
+
+.level4 {
+    margin-top: 1vh;
+    margin-left: 10vw;
+}
+
+.level5 {
+    margin-top: 1vh;
+    margin-left: 2vw;
+}
+
+.new-level {
+    margin-top: -4vh;
+    margin-left: 8vw;
+}
+
+.type {
+    margin-left: 31vw;
+    margin-top: -6vh;
+}
+
+.order {
+    margin-left: 38vw;
+    margin-top: -6vh;
+}
+
+.extra {
+    margin-left: 2vw;
+}
+
+.category {
+    margin-left: 14vw;
+    margin-top: -6vh;
+}
+
+.service {
+    margin-top: 8vh;
+    margin-left: 2vw;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    width: 10vw;
+}
+

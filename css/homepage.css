@@ -1,0 +1,119 @@
+.bussines {
+    margin-top: 10vh;
+}
+
+.bussines h4 {
+    width: 100%;
+    text-align: center;
+    color: #11e7e7;
+}
+
+.banner {
+    background: #686666;
+}
+
+.new1 {
+    text-align: center;
+    margin-left: 10vw;
+    color: black;
+}
+
+.new2{
+    text-align: center;
+    margin-left: 25vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.new3{
+    text-align: center;
+    margin-left: 40vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.new4{
+    text-align: center;
+    margin-left: 55vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.new5{
+    text-align: center;
+    margin-left: 70vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.top_rated{
+    margin-top:10vh ;
+}
+
+.top_rated h4 {
+    width: 100%;
+    text-align: center;
+    color: #11e7e7;
+}
+
+.top1{
+    text-align: center;
+    margin-left: 10vw;
+    color: black;
+}
+
+.top2{
+    text-align: center;
+    margin-left: 25vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.top3{
+    text-align: center;
+    margin-left: 40vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.top4{
+    text-align: center;
+    margin-left: 55vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.top5{
+    text-align: center;
+    margin-left: 70vw;
+    margin-top: -38vh;
+    color: black;
+}
+
+.job{
+    margin-top: 10vh;
+    margin-left: 10vw;
+}
+.job img{
+    margin-left: 2vw;
+    width: 20vh;
+    border-radius: 50%;
+}
+
+.job h2 {
+    color: #11e7e7;
+}
+
+.seeking{
+    margin-top: -42vh;
+    margin-left: 27vw;
+}
+.seeking img{
+    margin-left: 2vw;
+    width: 20vh;
+    border-radius: 50%;
+}
+
+.seeking h2 {
+    color: #11e7e7;
+}
