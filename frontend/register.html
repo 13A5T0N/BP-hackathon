@@ -11,12 +11,21 @@
 </head>
 
 <body class="body">
-    <div class="illustration">
-        <img src="../images/signup_illustration.png" alt="">
-    </div>
-    <div class="login">
-        <div class="col-10">
+    <div class="reg">
+        <div class="col-8">
             <form method="POST" action="../php/login.php" autocomplete="on">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Naam</label>
+                    <input  name="naam" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Voornaam</label>
+                    <input name="vnm" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Leefftijd</label>
+                    <input name="lftd" type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Email address</label>
                     <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -25,18 +34,11 @@
                     <label for="exampleInputPassword1">Password</label>
                     <input name="pwd" type="password" class="form-control" id="exampleInputPassword1">
                 </div>
-                <div class="form-group form-check">
-                    <input name="remember" type="checkbox" class="form-check-input" id="exampleCheck1 " value="checked">
-                    <label class="form-check-label" for="exampleCheck1">Remember Me</label>
-                </div>
-                <a href="#">Forgot password</a><br>
-                <a href="register.html">Sign Up</a>
-                <br>
-                <br>
-                <button type="submit" class="btn btn-success" name="login">Log in</button>
+                <button type="submit" class="btn btn-success">Register</button>
             </form>
         </div>
 
+    </div>
     </div>
 </body>
 
